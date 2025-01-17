@@ -1,2 +1,3 @@
-"""Version info for jupyter_server_terminals."""
-__version__ = "0.4.4"
+""" single source of truth for jupyter_lsp version
+"""
+__version__ = "2.2.0"
